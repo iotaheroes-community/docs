@@ -42,6 +42,6 @@ Embark on an epic journey in the world of **IOTA Heroes**, a blockchain-based ga
 
 ## FAQ
 
-- [Frequently Asked Questions](faq/general)
+- [Frequently Asked Questions](faq)
 
 Dive in, explore, and may your heroes lead you to glory!

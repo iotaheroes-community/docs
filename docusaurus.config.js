@@ -67,7 +67,15 @@ const config = {
           items: [
             {
               label: 'Getting Started',
-              to: '/docs/getting-started',
+              to: '/docs/getting-started/introduction',
+            },
+            {
+              label: 'Tokenomics',
+              to: '/docs/category/tokenomics',
+            },
+            {
+              label: 'FAQ',
+              to: '/docs/faq',
             },
           ],
         },

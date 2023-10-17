@@ -35,7 +35,7 @@ In **IOTA Heroes**, heroes are central to your adventure. They are your companio
 
 ## Support
 
-Need help with acquiring a hero? Visit our [FAQ](../faq/general.md) or reach out to the community on [our forum](https://forum.iotaheroes.com).
+Need help with acquiring a hero? Visit our [FAQ](../faq) or reach out to the community on [our forum](https://forum.iotaheroes.com).
 
 May your hero lead you to many victories in the lands of Fortuvia!
 
@@ -87,6 +87,6 @@ In **IOTA Heroes**, heroes are central to your adventure. They are your companio
 
 ## Support
 
-Need help with acquiring a hero? Visit our [FAQ](../faq/general.md) or reach out to the community on [our forum](https://forum.iotaheroes.com).
+Need help with acquiring a hero? Visit our [FAQ](../faq) or reach out to the community on [our forum](https://forum.iotaheroes.com).
 
 May your hero lead you to many victories in the lands of Fortuvia!

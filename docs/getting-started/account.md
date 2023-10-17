@@ -38,6 +38,6 @@ In **IOTA Heroes**, having an account is your first step to owning heroes, embar
 
 ## Support
 
-Having trouble with account creation? Visit our [FAQ](../faq/general.md) or reach out to the community on [our forum](https://forum.iotaheroes.com).
+Having trouble with account creation? Visit our [FAQ](../faq) or reach out to the community on [our forum](https://forum.iotaheroes.com).
 
 Welcome to IOTA Heroes, and may your adventures be legendary!
