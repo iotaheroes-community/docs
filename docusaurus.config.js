@@ -11,7 +11,7 @@ const config = {
   url: "https://huhn511.github.io/iotaheroes-docs",
   baseUrl: "/",
 
-  organizationName: "", // Adjust this to your GitHub organization name
+  organizationName: "huhn511", // Adjust this to your GitHub organization name
   projectName: "iotaheroes-docs", // Adjust this to your repository name
 
   trailingSlash: false,
