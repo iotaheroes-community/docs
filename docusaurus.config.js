@@ -9,7 +9,7 @@ const config = {
   favicon: "img/favicon.png",
 
   url: "https://huhn511.github.io",
-  baseUrl: "/iotaheroes-docs/",
+  baseUrl: "/",
 
   organizationName: "huhn511", // Adjust this to your GitHub organization name
   projectName: "iotaheroes-docs.github.io", // Adjust this to your repository name
