@@ -26,8 +26,7 @@ In **IOTA Heroes**, adventuring is a cornerstone of the gameplay. Once you have 
 - Even when rented out, heroes remain in your wallet and can be sold on the marketplace.
 
 ## Upcoming PvP Tournament
-
-- A PvP Tournament will be announced when many players reach max levels, offering exciting challenges and prizes.
+- Check out the [Halloween Event](https://www.iotaheroes.com/blog/halloween-event) where we hosted a PvP Tournament and introduced exclusive Halloween-themed items from **October 25th to November 1st**. 
 
 Embark on thrilling adventures, face fearsome foes, and unearth hidden treasures in the lands of Fortuvia!
 
