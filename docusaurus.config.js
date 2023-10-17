@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'IOTA Heroes Documentation',
   tagline: 'Explore the world of IOTA Heroes',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   url: 'https://your-documentation-site.com',
   baseUrl: '/',
