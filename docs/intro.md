@@ -14,34 +14,34 @@ Embark on an epic journey in the world of **IOTA Heroes**, a blockchain-based ga
 
 ## Getting Started
 
-- [Introduction to IOTA Heroes](getting-started/introduction)
-- [Creating Your Account](getting-started/account)
-- [Acquiring Your First Hero](getting-started/acquiring-hero)
+- [Introduction to IOTA Heroes](./getting-started/introduction.md)
+- [Creating Your Account](./getting-started/account.md)
+- [Acquiring Your First Hero](./getting-started/acquiring-hero.md)
 
 ## Game Mechanics
 
-- [Adventures and Battles](game-mechanics/adventures)
-- [Training and Upgrading Heroes](game-mechanics/training)
-- [Trading and Crafting](game-mechanics/trading)
+- [Adventures and Battles](./game-mechanics/adventures.md)
+- [Training and Upgrading Heroes](./game-mechanics/training.md)
+- [Trading and Crafting](./game-mechanics/trading.md)
 
 ## Tokenomics
 
-- [Heroes and Items](tokenomics/heroes-items)
-- [Marketplace](tokenomics/marketplace)
-- [Rewards and Earnings](tokenomics/rewards)
+- [Heroes and Items](./tokenomics/heroes-items.md)
+- [Marketplace](./tokenomics/marketplace.md)
+- [Rewards and Earnings](./tokenomics/rewards.md)
 
 ## Developer Guide
 
-- [Smart Contracts](developer-guide/smart-contracts)
+- [Smart Contracts](./developer-guide/smart-contracts.md)
 
 ## Community
 
-- [Community Guidelines](community/guidelines)
-- [Socials](community/socials)
-- [Events and Tournaments](community/events)
+- [Community Guidelines](/community/guidelines.md)
+- [Socials](/community/socials.md)
+- [Events and Tournaments](/community/events.md)
 
 ## FAQ
 
-- [Frequently Asked Questions](faq)
+- [Frequently Asked Questions](faq.md)
 
 Dive in, explore, and may your heroes lead you to glory!
