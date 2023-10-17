@@ -8,8 +8,8 @@ const config = {
   tagline: "Explore the world of IOTA Heroes",
   favicon: "img/favicon.png",
 
-  url: "https://huhn511.github.io/iotaheroes-docs",
-  baseUrl: "/",
+  url: "https://huhn511.github.io/",
+  baseUrl: "/iotaheroes-docs/",
 
   organizationName: "huhn511", // Adjust this to your GitHub organization name
   projectName: "iotaheroes-docs", // Adjust this to your repository name
