@@ -8,6 +8,7 @@ const config = {
   tagline: "Explore the world of IOTA Heroes",
   favicon: "img/favicon.png",
 
+
   url: "https://huhn511.github.io",
   baseUrl: "/iotaheroes-docs/",
 
