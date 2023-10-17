@@ -31,7 +31,7 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/iota-heroes/documentation/tree/main/", // Adjust this to your repository URL
+          editUrl: "https://github.com/huhn511/iotaheroes-docs/tree/main/", // Adjust this to your repository URL
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
