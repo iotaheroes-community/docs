@@ -18,4 +18,4 @@ Stay connected and be part of the discussions shaping the world of IOTA Heroes!
 
 
 ## Soonaverse
-Vote on Proposals and get Awards on the [IOTA Heroes Soonaverse Space](https://soonaverse.com/space/0x6163f230fc77c4f5f2c4bdf0eb982869021744f8).
+The offical Soonaverse space [IOTA Heroes Soonaverse Space](https://soonaverse.com/space/0x6163f230fc77c4f5f2c4bdf0eb982869021744f8).
