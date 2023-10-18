@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[324],{9124:e=>{e.exports=JSON.parse('{"title":"Tokenomics","slug":"/category/tokenomics","permalink":"/category/tokenomics","navigation":{"previous":{"title":"Trading and Crafting","permalink":"/game-mechanics/trading"},"next":{"title":"Gold (IHG)","permalink":"/tokenomics/IHG"}}}')}}]);
