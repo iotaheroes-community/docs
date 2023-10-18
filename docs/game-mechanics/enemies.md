@@ -199,7 +199,7 @@ That means you might face some of those foes a few levels sooner or later than w
     <td class="tg-0pky"></td>
     <td class="tg-0pky">178</td>
     <td class="tg-0pky">36 - 39</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Absorb (tbd)</td>
   </tr>
     <tr>
     <td class="tg-0pky">Dark WIzard</td>
@@ -211,7 +211,7 @@ That means you might face some of those foes a few levels sooner or later than w
   <tr>
     <td class="tg-0pky">Forest Witch</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">181</td>
     <td class="tg-0pky">52 - </td>
     <td class="tg-0pky"></td>
   </tr>
