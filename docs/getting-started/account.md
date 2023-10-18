@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # Creating Your Account
 
-In **IOTA Heroes**, having an account is your first step to owning heroes, embarking on adventures, and participating in the community. This guide will walk you through the process of creating your account.
+In **IOTA Heroes**, having an account is your first step to owning Heroes, embarking on adventures, and participating in the community. This guide will walk you through the process of creating your account.
 
 
 ## Step 1: Visit the IOTA Heroes Website
@@ -30,10 +30,12 @@ In **IOTA Heroes**, having an account is your first step to owning heroes, embar
 
 - Now that your account is set up, it's time to acquire your first hero!
 - Follow our guide on [Acquiring Your First Hero](./acquiring-hero.md) for detailed instructions.
+- You also can test the game out without minting by simply sending a rented [link to Renting page] Hero to an adventure for a portion of the mintprice. 
+  (But long term owning a Hero of course is cheaper and lets you customize it fully to your will.)
 
 ## Step 5: Explore the World of IOTA Heroes
 
-- Start exploring, training your hero, and embarking on your first adventure.
+- Start exploring, training your Hero, and embarking on your first adventure.
 - Engage with the community, trade items, and participate in events and tournaments.
 
 ## Support
