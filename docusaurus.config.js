@@ -30,6 +30,7 @@ const config = {
       "classic",
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://github.com/iotaheroes-community/docs/tree/main/", // Adjust this to your repository URL
         },
@@ -69,15 +70,15 @@ const config = {
           items: [
             {
               label: "Getting Started",
-              to: "/docs/getting-started/introduction",
+              to: "/getting-started/introduction",
             },
             {
               label: "Tokenomics",
-              to: "/docs/category/tokenomics",
+              to: "/category/tokenomics",
             },
             {
               label: "FAQ",
-              to: "/docs/faq",
+              to: "/faq",
             },
           ],
         },
