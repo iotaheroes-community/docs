@@ -48,28 +48,28 @@ That means you might face some of those foes a few levels sooner or later than w
     <td class="tg-0pky"></td>
     <td class="tg-0pky">18</td>
     <td class="tg-0pky">8 - 28</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Trickery (Phys. Debuff): Reduces Critical Chance</td>
   </tr>
     <tr>
     <td class="tg-0pky">Toad</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">43</td>
     <td class="tg-0pky">14 - 36</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Tongue Smack (Phys. Debuff): Reduced Dodge</td>
   </tr>
     <tr>
     <td class="tg-0pky">Bat</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">91</td>
     <td class="tg-0pky">24 - 42</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Sonic Screech (Phys. Debuff): Reduces Armor & Magic Resist</td>
   </tr>
     <tr>
     <td class="tg-0pky">Blue Baby Slime</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">107</td>
     <td class="tg-0pky">36 - </td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Blue Goo Splash: Deals Dmg; Goo Purge: Removes Buffs from Hero</td>
   </tr>
     <tr>
     <td class="tg-0pky">Green Slime</td>
@@ -106,35 +106,35 @@ That means you might face some of those foes a few levels sooner or later than w
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">9 - 24</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Poisonous Darts (Phys. Dot): Deals Phys. Dmg every 30 Ticks for 120 Ticks</td>
   </tr>
   <tr>
     <td class="tg-0pky">Wolf</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">97</td>
     <td class="tg-0pky">19 - 35</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Roar (Phys. Debuff): Reduces Attack Power & Armor</td>
   </tr>
   <tr>
     <td class="tg-0pky">Ent</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">136</td>
     <td class="tg-0pky">24 - 44</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Root (Mag. Debuff): Reduces Speed</td>
   </tr>
   <tr>
     <td class="tg-0pky">Gargoyle</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">142</td>
     <td class="tg-0pky">33 - 42</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Throw Boulder: Deals Dmg</td>
   </tr>
   <tr>
     <td class="tg-0pky">Vampire Bat</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">160</td>
     <td class="tg-0pky">41 - 42</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Vampiric Bite: Deals Dmg and gives HP back to the user.</td>
   </tr>
     <tr>
     <td class="tg-0pky">Tide Brute</td>
