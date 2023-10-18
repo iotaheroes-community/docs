@@ -9,11 +9,11 @@ const config = {
   favicon: "img/favicon.png",
 
 
-  url: "https://huhn511.github.io",
-  baseUrl: "/iotaheroes-docs/",
+  url: "https://docs.iotaheroes.com",
+  baseUrl: "/",
 
-  organizationName: "huhn511", // Adjust this to your GitHub organization name
-  projectName: "iotaheroes-docs.github.io", // Adjust this to your repository name
+  organizationName: "iotaheroes-community", // Adjust this to your GitHub organization name
+  projectName: "docs", // Adjust this to your repository name
 
   trailingSlash: false,
 
@@ -31,7 +31,7 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/huhn511/iotaheroes-docs/tree/main/", // Adjust this to your repository URL
+          editUrl: "https://github.com/iotaheroes-community/docs/tree/main/", // Adjust this to your repository URL
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
