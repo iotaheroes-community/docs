@@ -21,7 +21,7 @@ Template for ItemSets:
 <thead>
   <tr>
     <th class="tg-0lax">Slot</th>
-    <th class="tg-0pky">Head<br></th>
+    <th class="tg-0pky">Head</th>
     <th class="tg-0pky">Chest</th>
     <th class="tg-0pky">Shoulder</th>
     <th class="tg-0pky">Back</th>
