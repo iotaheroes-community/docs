@@ -46,7 +46,7 @@ Template for ItemSets:
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Stats<br></td>
+    <td class="tg-0lax">Stats</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -59,18 +59,6 @@ Template for ItemSets:
   </tr>
   <tr>
     <td class="tg-0lax">Requirements</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
