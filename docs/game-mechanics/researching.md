@@ -272,6 +272,5 @@ sidebar_position: 6
     <td></td>
     <td></td>
   </tr>
-  </tr>
 </tbody>
 </table>
