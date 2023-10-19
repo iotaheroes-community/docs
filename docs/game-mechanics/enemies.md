@@ -64,12 +64,15 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>24 - 42</td>
     <td>Sonic Screech (Phys. Debuff): Reduces armor & mag. resist</td>
   </tr>
-    <tr>
-    <td>Blue Baby Slime</td>
-    <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/a9db37be-43a0-4259-9c6b-db5f97d558f6)"/></td>
-    <td>107</td>
-    <td>36 - </td>
-    <td>Blue Goo Splash: Deals dmg &nbsp;&nbsp; Goo Purge: Removes buffs from Hero</td>
+     <tr>
+    <td rowspan="2">Blue Baby Slime</td>
+    <td rowspan="2"><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/a9db37be-43a0-4259-9c6b-db5f97d558f6)"/></td>
+    <td rowspan="2">107</td>
+    <td rowspan="2">36 - </td>
+    <td>Blue Goo Splash: Deals dmg</td>
+  </tr>
+  <tr>
+    <td>Goo Purge: Removes buffs from Hero</td>
   </tr>
     <tr>
     <td>Green Slime</td>
