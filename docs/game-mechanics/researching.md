@@ -14,7 +14,7 @@ sidebar_position: 6
 <thead>
   <tr>
     <th>Name</th>
-    <th>Image<br></th>
+    <th>Image</th>
     <th>Drop chance</th>
     <th>Requirements</th>
     <th>Effect</th>
@@ -156,7 +156,7 @@ sidebar_position: 6
 <thead>
   <tr>
     <th>Name</th>
-    <th>Image<br></th>
+    <th>Image</th>
     <th>Drop chance</th>
     <th>Requirements</th>
     <th>Effect</th>
@@ -258,7 +258,7 @@ sidebar_position: 6
 <thead>
   <tr>
     <th>Name</th>
-    <th>Image<br></th>
+    <th>Image</th>
     <th>Drop chance</th>
     <th>Requirements</th>
     <th>Effect</th>
