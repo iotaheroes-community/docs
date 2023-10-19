@@ -69,9 +69,7 @@ That means you might face some of those foes a few levels sooner or later than w
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/a9db37be-43a0-4259-9c6b-db5f97d558f6)"/></td>
     <td>107</td>
     <td>36 - </td>
-    <td>Blue Goo Splash: Deals dmg
-    </br> </br>
-    Goo Purge: Removes buffs from Hero</td>
+    <td>Blue Goo Splash: Deals dmg &nbsp;&nbsp; Goo Purge: Removes buffs from Hero</td>
   </tr>
     <tr>
     <td>Green Slime</td>
