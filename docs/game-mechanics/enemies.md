@@ -14,10 +14,14 @@ But don't overestimate your Heroes' capabilities or they return with beaten in l
 From the beginning and independent from your Heroes' levels they all have the following three (later four) options when starting an adventure:
 - Easy
 - Medium
-- hard
+- Hard
 - Elite (Locked for now. Maybe playable with max level Heroes?)
 
-The difference between the available difficulties determines the pool of enemies of which you have to fight one that has a matching level range regadring your Heros total level.
+The difference between the available difficulties determines the pool of enemies out of which you have to fight one enemy. Tougher enemies give better loot.
+So first you select a difficulty and then in this difficulty there are different enemies with partially overlapping level ranges.
+
+Example: A Hero with level 25 would meet one of the following enemies that matches their level range at the chosen difficulty
+
 
 DISCLAIMER: 
 The level ranges in the following tables are solely based on the testing and documentation of some individuals. 
@@ -153,6 +157,21 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>56 - </td>
     <td></td>
   </tr>
+    <tr>
+    <td>Centaur</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>64 - </td>
+    <td>Stomp: Stuns the Hero for XX ticks</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>Dark Witch</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>64 - </td>
+    <td>Vodoo Puncture: Deals magical dmg</td>
+  </tr>
 </tbody>
 </table>
 
@@ -206,14 +225,14 @@ That means you might face some of those foes a few levels sooner or later than w
   </tr>
   <tr>
     <td>Forest Wizard</td>
-    <td><img src=""/></td>
+    <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/c8b09cd7-f1bf-462f-b091-16f6f1a943e4"/></td>
     <td>178</td>
     <td>36 - 39</td>
-    <td>Absorb (tbd)</td>
+    <td>Absorb: Deals magical dmg and heals the user for half the amount</td>
   </tr>
     <tr>
     <td>Dark Wizard</td>
-    <td><img src=""/></td>
+    <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/aef3b808-427b-42bb-a290-6d5362d6d797"/></td>
     <td>206</td>
     <td>44 - </td>
     <td>Corruption Bolt: Deals magical dmg</td>
