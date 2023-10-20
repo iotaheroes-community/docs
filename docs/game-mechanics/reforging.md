@@ -35,12 +35,12 @@ When you reforge items there are a few things to know:
 	<tr>
 		<td>Rare</td>
 		<td>Green</td>
-    <td>83.33 % %</td>
+    <td>83.33 %</td>
 	</tr>
  	<tr>
 		<td>Mystic</td>
 		<td>Blue</td>
-    <td>87.50 % %</td>
+    <td>87.50 %</td>
 	</tr>
  </table>
   
