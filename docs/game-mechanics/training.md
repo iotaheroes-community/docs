@@ -4,160 +4,66 @@ sidebar_label: Training and Upgrading Heroes
 sidebar_position: 2
 ---
 
-# Training and Upgrading Heroes
+# Elevate Your Heroes: A Guide to Training and Upgrading
 
-Training is crucial to prepare your heroes for tougher encounters.
+Training is the cornerstone of a hero's journey towards mastery. In the realm of Fortuvia, your heroes need to hone their skills to face the adversaries that lie ahead.
 
-## Training Facilities
+## Halls of Training
 
-- Four facilities offer distinct training approaches
-  
- ![Facility](https://github.com/iotaheroes-community/docs/assets/104099536/498a1e98-9222-45b9-a4eb-4b0727519034)
+![Training Halls](https://github.com/iotaheroes-community/docs/assets/104099536/498a1e98-9222-45b9-a4eb-4b0727519034)
 
+Four majestic halls await your heroes. Each hall specializes in nurturing a unique aspect of a hero's prowess. Employ the gold coins you've amassed from your daring adventures to elevate these hallowed halls, ensuring your heroes are always a step ahead in the leveling saga.
 
-- Use gold from adventures to upgrade facilities and don't fall behind in leveling speed.
+## Ascending the Levels
 
-  <table>
-	<tr>
-		<th>Facility</th>
-		<th>Upgrade Cost</th>
-	</tr>
-	<tr>
-		<td>Level 1</td>
-		<td>10 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 2</td>
-		<td>38 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 3</td>
-		<td>94 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 4</td>
-		<td>178 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 5</td>
-		<td>290 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 6</td>
-		<td>430 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 7</td>
-		<td>598 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 8</td>
-		<td>794 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 9</td>
-		<td>1,018 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 10</td>
-		<td>1,270 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 11</td>
-		<td>1,550 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 12</td>
-		<td>1,858 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 13</td>
-		<td>2,194 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 14</td>
-		<td>2,558 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 15</td>
-		<td>2,950 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 16</td>
-		<td>3,370 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 17</td>
-		<td>3,818 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 18</td>
-		<td>4,294 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 19</td>
-		<td>4,798 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 20</td>
-		<td>5,330 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 21</td>
-		<td>5,890 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 22</td>
-		<td>6,478 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 23</td>
-		<td>7,094 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 24</td>
-		<td>7,738 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 25</td>
-		<td>8,410 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 26</td>
-		<td>9,110 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 27</td>
-		<td>9,838 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 28</td>
-		<td>10,594 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 29</td>
-		<td>11,378 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 30</td>
-		<td>12,190 Gold</td>
-	</tr>
-</table>
-  
-## Upgrading Heroes
+Heroes can soar to the zenith of power, reaching a maximum level of 90. The trick to efficient training lies in the harmony between a hero's average attribute level and the standing of the facility you choose for training.
 
-- Heroes can attain a max level of 90.
-- For maximum training benefits (Exp) the facility chosen to train must match the average attribute level (total level / 3, no decimals)
-  So a level 30 hero (15 / 8 / 7) has an average attribute level of 10 because (15+8+7)/3 = 10 and gets as much Exp as possible when using a facility of at least level 10.
-- Whatever is lower, the average attribute level or the facility level, determines the cap of how much Exp can be earned with that combination of levels.
-  
-![image](https://github.com/iotaheroes-community/docs/assets/104099536/3fd89347-26fd-4972-872e-333ddc5c02d7)
+![Training Mechanics](https://github.com/iotaheroes-community/docs/assets/104099536/3fd89347-26fd-4972-872e-333ddc5c02d7)
 
-- Spend gold to reset hero stats if needed.
+## Strategy Corner: Tips and Tricks
 
-## Stat Reset
+- **Early Dominance**: A focus on Strength (STR) in the nascent stages fortifies your hero's damage and armor, laying a solid foundation for the battles to come.
+- **Training Wisdom**: Harness the 'Repeat' function to economize on gas fees while perpetuating the training in the same facility.
+- **Attribute Evolution**: As your journey unfolds, blend in Agility (AGI) for elevated dodge, attack speed, and critical hit chances. Intelligence (INT) morphs into a precious asset when you delve into the realm of spells and abilities, accessible through the "Research" domain.
 
-- Reconfigure a hero's stats to adapt to new strategies or battle lower-level monsters for unique loot.
+## A Glimpse into Facility Upgrade Costs
 
-Train, upgrade, and tailor your heroes to confront the challenges that await in Fortuvia!
+| Facility Level | Upgrade Cost |
+| ---------------| -------------|
+| Level 1        | 10 Gold      |
+| Level 2        | 38 Gold      |
+| Level 3        | 94 Gold      |
+| Level 4        | 178 Gold     |
+| Level 5        | 290 Gold     |
+| Level 6        | 430 Gold     |
+| Level 7        | 598 Gold     |
+| Level 8        | 794 Gold     |
+| Level 9        | 1,018 Gold   |
+| Level 10       | 1,270 Gold   |
+| Level 11       | 1,550 Gold   |
+| Level 12       | 1,858 Gold   |
+| Level 13       | 2,194 Gold   |
+| Level 14       | 2,558 Gold   |
+| Level 15       | 2,950 Gold   |
+| Level 16       | 3,370 Gold   |
+| Level 17       | 3,818 Gold   |
+| Level 18       | 4,294 Gold   |
+| Level 19       | 4,798 Gold   |
+| Level 20       | 5,330 Gold   |
+| Level 21       | 5,890 Gold   |
+| Level 22       | 6,478 Gold   |
+| Level 23       | 7,094 Gold   |
+| Level 24       | 7,738 Gold   |
+| Level 25       | 8,410 Gold   |
+| Level 26       | 9,110 Gold   |
+| Level 27       | 9,838 Gold   |
+| Level 28       | 10,594 Gold  |
+| Level 29       | 11,378 Gold  |
+| Level 30       | 12,190 Gold  |
+
+## Embrace Change: Stat Reset
+
+There's room for evolution. Spend gold to realign your hero's stats, adapting to new strategies or descending to lower-level battles for exclusive loot.
+
+Train with purpose, upgrade with vision, and mold your heroes to conquer the mystic lands of Fortuvia!
 
