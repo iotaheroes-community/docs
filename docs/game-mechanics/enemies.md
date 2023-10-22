@@ -44,7 +44,7 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>Goblin</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/2ed20411-9493-457c-8fc7-331e84962078"/></td>
     <td>22</td>
-    <td>3 - 9</td>
+    <td>3 - 12</td>
     <td>Stumble: Self-stun</td>
   </tr>
   <tr>
@@ -72,17 +72,24 @@ That means you might face some of those foes a few levels sooner or later than w
     <td rowspan="2">Blue Baby Slime</td>
     <td rowspan="2"><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/a9db37be-43a0-4259-9c6b-db5f97d558f6"/></td>
     <td rowspan="2">107</td>
-    <td rowspan="2">36 - </td>
+    <td rowspan="2">36 - 65</td>
     <td>Blue Goo Splash: Deals dmg</td>
   </tr>
   <tr>
     <td>Goo Purge: Removes buffs from Hero</td>
   </tr>
     <tr>
-    <td>Green Slime</td>
+    <td>Green Baby Slime</td>
     <td><img src=""/></td>
     <td></td>
-    <td>?? - ??</td>
+    <td>52 - 70</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Red Baby Slime</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>64 - 70</td>
     <td></td>
   </tr>
 </tbody>
@@ -126,51 +133,51 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>Ent</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/708eab10-8542-4bc7-98c8-cdce6dfd95e7"/></td>
     <td>136</td>
-    <td>24 - 44</td>
+    <td>24 - 47</td>
     <td>Root (Mag. Debuff): Reduces speed</td>
   </tr>
   <tr>
     <td>Gargoyle</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/b5dbe4d5-06eb-4dd1-8aaa-667e2fdec56e"/></td>
     <td>142</td>
-    <td>33 - 42</td>
+    <td>33 - 52</td>
     <td>Throw Boulder: Deals physical dmg</td>
   </tr>
   <tr>
     <td>Vampire Bat</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/dc8f330c-9fff-4957-826f-a2c439889484"/></td>
     <td>160</td>
-    <td>41 - 42</td>
+    <td>41 - 61</td>
     <td>Vampiric Bite: Deals physical dmg and gives HP back to the user.</td>
   </tr>
     <tr>
     <td>Forest Witch</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/a036362b-1422-4144-8287-672e11dfc21c"/></td>
     <td>181</td>
-    <td>36 - 39</td>
+    <td>36 - 69</td>
     <td>Illusionary Slumber: Magical sleep (Hero fails all actions while asleep)</td>
   </tr>
     <tr>
     <td>Tide Brute</td>
-    <td><img src=""/></td>
+    <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/e29a1718-140e-4693-9645-76718f0319a5"/></td>
     <td></td>
-    <td>56 - </td>
+    <td>56 - 69</td>
     <td></td>
-  </tr>
-    <tr>
-    <td>Centaur</td>
-    <td><img src=""/></td>
-    <td></td>
-    <td>64 - </td>
-    <td>Stomp: Stuns the Hero for XX ticks</td>
   </tr>
     </tr>
     <tr>
     <td>Dark Witch</td>
     <td><img src=""/></td>
     <td></td>
-    <td>64 - </td>
+    <td>63 - 69</td>
     <td>Vodoo Puncture: Deals magical dmg</td>
+  </tr>
+    <tr>
+    <td>Centaur</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>64 - 69</td>
+    <td>Stomp: Stuns the Hero for XX ticks</td>
   </tr>
 </tbody>
 </table>
@@ -196,52 +203,59 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>Venom Spit (Phys. Dot): Deals physical dmg every 35 ticks for 115 ticks</td>
   </tr>
   <tr>
-    <td>Ninja</td>
-    <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/effa7b7a-bf50-4e2d-a3b1-76b0ee51c114"/></td>
-    <td>109</td>
-    <td>18 - 27</td>
-    <td>Shuriken: Deals physical dmg</td>
-  </tr>
-  <tr>
     <td>Golem</td>
     <td><img src=""/></td>
     <td></td>
-    <td>18 - 21</td>
+    <td>16 - 24</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>Ninja</td>
+    <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/effa7b7a-bf50-4e2d-a3b1-76b0ee51c114"/></td>
+    <td>109</td>
+    <td>17 - 33</td>
+    <td>Shuriken: Deals physical dmg</td>
   </tr>
   <tr>
     <td>Skeletal Ranger</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/1bc9efa7-2376-4983-832c-20f337991d86"/></td>
     <td>124</td>
-    <td>21 - 27</td>
+    <td>21 - 39</td>
     <td>Fiery Arrow (Phys. Dot): Deals physical dmg every 35 ticks for 115 ticks</td>
   </tr>
   <tr>
     <td>Cerberus</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/c7927360-ec54-4b07-a585-2ba893032928"/></td>
     <td>148</td>
-    <td>28 - 39</td>
+    <td>28 - 48</td>
     <td>Triple Bite (Phys. Dot): Deals dmg every 30 ticks for 115 ticks</td>
   </tr>
   <tr>
     <td>Forest Wizard</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/c8b09cd7-f1bf-462f-b091-16f6f1a943e4"/></td>
     <td>178</td>
-    <td>36 - 39</td>
+    <td>35 - 56</td>
     <td>Absorb: Deals magical dmg and heals the user for half the amount</td>
   </tr>
     <tr>
     <td>Dark Wizard</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/aef3b808-427b-42bb-a290-6d5362d6d797"/></td>
     <td>206</td>
-    <td>44 - </td>
+    <td>44 - 66</td>
     <td>Corruption Bolt: Deals magical dmg</td>
   </tr>
   <tr>
     <td>Ritualist</td>
     <td><img src=""/></td>
     <td></td>
-    <td> - </td>
+    <td>52 - 66</td>
+    <td></td>
+  </tr>
+      <tr>
+    <td>Blood WItch</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>61 - 66</td>
     <td></td>
   </tr>
 </tbody>
