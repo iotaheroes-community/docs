@@ -164,7 +164,6 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>56 - 69</td>
     <td></td>
   </tr>
-    </tr>
     <tr>
     <td>Dark Witch</td>
     <td><img src=""/></td>
