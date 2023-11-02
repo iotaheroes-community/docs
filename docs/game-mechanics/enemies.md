@@ -92,7 +92,7 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>64 - 88</td>
     <td></td>
   </tr>
-    tr>
+    <tr>
     <td>Tide Grunt</td>
     <td><img src=""/></td>
     <td></td>
