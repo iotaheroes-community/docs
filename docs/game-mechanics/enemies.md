@@ -82,14 +82,28 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>Green Baby Slime</td>
     <td><img src=""/></td>
     <td></td>
-    <td>52 - 70</td>
+    <td>52 - 81</td>
     <td></td>
   </tr>
     <tr>
     <td>Red Baby Slime</td>
     <td><img src=""/></td>
     <td></td>
-    <td>64 - 70</td>
+    <td>64 - 88</td>
+    <td></td>
+  </tr>
+    tr>
+    <td>Tide Grunt</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>75 - 88</td>
+    <td></td>
+  </tr>
+    tr>
+    <td>Fairy</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>83 - 88</td>
     <td></td>
   </tr>
 </tbody>
@@ -154,29 +168,43 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>Forest Witch</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/a036362b-1422-4144-8287-672e11dfc21c"/></td>
     <td>181</td>
-    <td>36 - 69</td>
+    <td>36 - 73</td>
     <td>Illusionary Slumber: Magical sleep (Hero fails all actions while asleep)</td>
   </tr>
     <tr>
     <td>Tide Brute</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/e29a1718-140e-4693-9645-76718f0319a5"/></td>
     <td></td>
-    <td>56 - 69</td>
+    <td>56 - 83</td>
     <td></td>
   </tr>
     <tr>
     <td>Dark Witch</td>
     <td><img src=""/></td>
     <td></td>
-    <td>63 - 69</td>
+    <td>63 - 88</td>
     <td>Vodoo Puncture: Deals magical dmg</td>
   </tr>
     <tr>
     <td>Centaur</td>
     <td><img src=""/></td>
     <td></td>
-    <td>64 - 69</td>
+    <td>64 - 88</td>
     <td>Stomp: Stuns the Hero for XX ticks</td>
+  </tr>
+    <tr>
+    <td>Devious Treasure</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>71 - 88</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Cyclops</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>83 - 88</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
@@ -240,21 +268,49 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>Dark Wizard</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/aef3b808-427b-42bb-a290-6d5362d6d797"/></td>
     <td>206</td>
-    <td>44 - 66</td>
+    <td>44 - 67</td>
     <td>Corruption Bolt: Deals magical dmg</td>
   </tr>
   <tr>
     <td>Ritualist</td>
     <td><img src=""/></td>
     <td></td>
-    <td>52 - 66</td>
+    <td>52 - 75</td>
     <td></td>
   </tr>
-      <tr>
-    <td>Blood WItch</td>
+    <tr>
+    <td>Blood Witch</td>
     <td><img src=""/></td>
     <td></td>
     <td>61 - 66</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Blood Witch</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>61 - 81</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Skeletal Wizard</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>68 - 88</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Hydra</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>75 - 88</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Skeletal Warrior</td>
+    <td><img src=""/></td>
+    <td></td>
+    <td>81 - 88</td>
     <td></td>
   </tr>
 </tbody>
