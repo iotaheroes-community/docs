@@ -175,8 +175,8 @@ That means you might face some of those foes a few levels sooner or later than w
     <td>Tide Brute</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/e29a1718-140e-4693-9645-76718f0319a5"/></td>
     <td></td>
-    <td>56 - 83</td>
-    <td></td>
+    <td>56 - 69</td>
+    <td>Extra Attack</td>
   </tr>
     <tr>
     <td>Dark Witch</td>
