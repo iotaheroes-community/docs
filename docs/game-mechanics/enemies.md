@@ -50,7 +50,7 @@ That means you might face some of those foes a few levels sooner or later than w
   <tr>
     <td>Imp</td>
     <td><img src="https://github.com/CptBananu/iotaheroes-docs/assets/104099536/6c5ee808-32f7-4c7e-a532-6d88f2061c63"/></td>
-    <td>18</td>
+    <td>31</td>
     <td>8 - 28</td>
     <td>Trickery (Phys. Debuff): Reduces critical chance</td>
   </tr>
